@@ -1,0 +1,12 @@
+body {
+    background-color: aqua;
+}
+.image {
+    height: auto;
+    width: 500px;
+    text-align: center;
+}
+
+.heading {
+    text-align: center;
+}

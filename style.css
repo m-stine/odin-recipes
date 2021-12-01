@@ -1,12 +1,40 @@
 body {
-    background-color: aqua;
+    background-color: rgb(6, 38, 68);
 }
 .image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: auto;
     width: 500px;
-    text-align: center;
+
 }
 
 .heading {
     text-align: center;
+    color: white;
+}
+
+.button {
+    font-size: 28px;
+}
+
+.source {
+    background-color: red;
+    color: white;
+}
+
+.home {
+    background-color: white;
+    color: red;
+}
+
+.source, .home {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    color: white;
 }

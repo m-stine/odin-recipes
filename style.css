@@ -1,6 +1,11 @@
 body {
     background-color: rgb(6, 38, 68);
 }
+
+* {
+    font-family: "Arial", "Verdana", "Georgia", sans-serif;
+}
+
 .image {
     display: block;
     margin-left: auto;
@@ -21,6 +26,7 @@ body {
 .heading {
     text-align: center;
     color: white;
+    font-family: "Monaco", "Lucida Console", sans-serif;
 }
 
 .button {
